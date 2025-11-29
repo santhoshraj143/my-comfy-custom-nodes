@@ -1,0 +1,80 @@
+{
+    "KayTool_ShowRunOption": {
+      "name": "在'节点右键菜单'中显示 '▶️ Run' 选项"
+    },
+    "KayTool_ShowSetGetOptions": {
+      "name": "在'节点右键菜单'中显示 '🛜 Set/Get' 选项"
+    },
+    "KayTool_ShiftR": {
+      "name": "使用 'Alt+R' 快捷键在选中的节点上快速执行 '▶️ Run'"
+    },
+    "KayTool_ShowWorkflowPNG": {
+      "name": "在KayTool菜单中显示 'Workflow PNG' 选项"
+    },
+    "KayTool_ShowCleanVRAM": {
+      "name": "在KayTool菜单中显示 '🧹 Clean VRAM' 选项"
+    },
+    "KayTool_ShowStarToMe": {
+      "name": "在KayTool菜单中显示 '⭐️ Star to me' 选项"
+    },
+    "KayTool_WorkflowPNG": {
+      "name": "Workflow PNG 导出的边距大小",
+      "tooltip": "建议设置 100"
+    },
+    "KayTool_EnableResourceMonitor": {
+      "name": "启用资源监视器"
+    },
+    "KayTool_ResourceMonitorEdgeFade": {
+      "name": "统计表边缘渐隐"
+    },
+    "KayTool_ResourceMonitorBackgroundOpacity": {
+      "name": "资源监视器背景不透明度"
+    },
+    "KayTool_SetGetForegroundColor": {
+      "name": "节点颜色"
+    },
+    "KayTool_SetGetBackgroundColor": {
+      "name": "标题颜色"
+    },
+    "KayTool_CustomWebLogo": {
+      "name": "文件必须 < 1MB",
+      "tooltip": "这是一个测试功能，文件最好 <1MB ，否则可能无法显示"
+    },
+    "KayTool_GuLuLuSize": {
+      "name": "你要一个多大的咕噜噜~啊？"
+    },
+    "KayTool_EnableGuLuLu": {
+      "name": "让咕噜噜陪着你吧~！",
+      "tooltip": "咕噜噜会继承KayTool的通知项为流式输出，并支持通知框位置调整，以及强大的右键菜单项"
+    },
+    "KayTool_EnableAlignmentShortcuts": {
+      "name": "启用快捷键'Shift+W/A/S/D'",
+      "tooltip": "W/A/S/D 对应上、左、下、右对齐"
+    },
+
+    "KayTool_NodeAlignDisplayMode": {
+      "name": "工具栏显示模式",
+      "options": {
+        "Permanent": "常驻",
+        "Show on Node Selection": "在选中多个节点时",
+        "Disabled": "禁用"
+      }
+    },
+    "KayTool_NodeAlignBackgroundOpacity": {
+      "name": "工具栏背景不透明度"
+    },
+    "KayTool_NodeAlignBackgroundColor": {
+      "name": "工具栏背景颜色"
+    },
+    "KayTool_NodeAlignIconBackgroundColor": {
+      "name": "图标背景颜色",
+      "tooltip": "数值“363636”接近ComfyUI菜单栏颜色，可模拟隐藏背景效果"
+    },
+    "KayTool_NodeAlignIconColor": {
+      "name": "图标颜色"
+    },
+    "KayTool_NodeAlignDividerColor": {
+      "name": "分隔符颜色"
+    }
+    
+  }

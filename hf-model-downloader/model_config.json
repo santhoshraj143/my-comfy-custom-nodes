@@ -1,0 +1,225 @@
+[
+  {
+    "repo_id": "RunDiffusion/Juggernaut-XL-v9",
+    "subfolder": "",
+    "filename": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+    "local_path": "checkpoints/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "h94/IP-Adapter",
+    "subfolder": "models/image_encoder",
+    "filename": "model.safetensors",
+    "local_path": "clip_vision/CLIP-ViT-H-14-laion2B-s32B-b79K.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "h94/IP-Adapter",
+    "subfolder": "sdxl_models/image_encoder",
+    "filename": "model.safetensors",
+    "local_path": "clip_vision/CLIP-ViT-bigG-14-laion2B-39B-b160k.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "h94/IP-Adapter",
+    "subfolder": "sdxl_models",
+    "filename": "ip-adapter-plus_sdxl_vit-h.safetensors",
+    "local_path": "ipadapter/ip-adapter-plus_sdxl_vit-h.safetensors",
+    "protected": false
+  },
+    {
+    "repo_id": "h94/IP-Adapter",
+    "subfolder": "sdxl_models",
+    "filename": "ip-adapter_sdxl_vit-h.safetensors",
+    "local_path": "ipadapter/ip-adapter_sdxl_vit-h.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "tencent/Hunyuan3D-2",
+    "subfolder": "hunyuan3d-dit-v2-0-fast",
+    "filename": "model.fp16.safetensors",
+    "local_path": "diffusion_models/hy3dgen/hunyuan3d-dit-v2-0-fast-fp16.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "tencent/Hunyuan3D-2mv",
+    "subfolder": "hunyuan3d-dit-v2-mv-fast",
+    "filename": "model.fp16.safetensors",
+    "local_path": "diffusion_models/hy3dgen/hunyuan3d-dit-v2-mv-fast-fp16.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Kijai/flux-fp8",
+    "subfolder": "",
+    "filename": "flux1-dev-fp8.safetensors",
+    "local_path": "unet/FLUX1/flux1-dev-fp8.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Kijai/flux-fp8",
+    "subfolder": "",
+    "filename": "flux_shakker_labs_union_pro-fp8_e4m3fn.safetensors",
+    "local_path": "controlnet/FLUX1/flux_shakker_labs_union_pro-fp8_e4m3fn.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "comfyanonymous/flux_text_encoders",
+    "subfolder": "",
+    "filename": "t5xxl_fp8_e4m3fn.safetensors",
+    "local_path": "text_encoders/t5/t5xxl_fp8_e4m3fn.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "comfyanonymous/flux_text_encoders",
+    "subfolder": "",
+    "filename": "clip_l.safetensors",
+    "local_path": "text_encoders/clip_l.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "black-forest-labs/FLUX.1-Depth-dev-lora",
+    "subfolder": "",
+    "filename": "flux1-depth-dev-lora.safetensors",
+    "local_path": "loras/flux1-depth-dev-lora.safetensors",
+    "protected": true
+  },
+  {
+    "repo_id": "black-forest-labs/FLUX.1-Canny-dev-lora",
+    "subfolder": "",
+    "filename": "flux1-canny-dev-lora.safetensors",
+    "local_path": "loras/flux1-canny-dev-lora.safetensors",
+    "protected": true
+  },
+  {
+    "repo_id": "black-forest-labs/FLUX.1-dev",
+    "subfolder": "",
+    "filename": "ae.safetensors",
+    "local_path": "vae/FLUX1/ae.safetensors",
+    "protected": true,
+    "license": {
+      "name": "FluxDev Non-Commercial License",
+      "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
+      "required": true
+    }
+  },
+  {
+    "repo_id": "Comfy-Org/Lumina_Image_2.0_Repackaged",
+    "subfolder": "split_files/vae",
+    "filename": "ae.safetensors",
+    "local_path": "vae/ae.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "comfyanonymous/flux_text_encoders",
+    "subfolder": "",
+    "filename": "t5xxl_fp8_e4m3fn_scaled.safetensors",
+    "local_path": "text_encoders/t5/t5xxl_fp8_e4m3fn_scaled.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Comfy-Org/flux1-kontext-dev_ComfyUI",
+    "subfolder": "split_files/diffusion_models",
+    "filename": "flux1-dev-kontext_fp8_scaled.safetensors",
+    "local_path": "diffusion_models/flux1-dev-kontext_fp8_scaled.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+    "subfolder": "split_files/diffusion_models",
+    "filename": "wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors",
+    "local_path": "diffusion_models/wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+    "subfolder": "split_files/diffusion_models",
+    "filename": "wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors",
+    "local_path": "diffusion_models/wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+    "subfolder": "split_files/vae",
+    "filename": "wan_2.1_vae.safetensors",
+    "local_path": "vae/wan_2.1_vae.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+    "subfolder": "split_files/text_encoders",
+    "filename": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+    "local_path": "text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Comfy-Org/Qwen-Image_ComfyUI",
+    "subfolder": "split_files/vae",
+    "filename": "qwen_image_vae.safetensors",
+    "local_path": "vae/qwen_image_vae.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Comfy-Org/Qwen-Image_ComfyUI",
+    "subfolder": "split_files/text_encoders",
+    "filename": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "local_path": "text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "lightx2v/Qwen-Image-Lightning",
+    "subfolder": "",
+    "filename": "Qwen-Image-Lightning-8steps-V1.0.safetensors",
+    "local_path": "loras/Qwen-Image-Lightning-8steps-V1.0.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Comfy-Org/Qwen-Image_ComfyUI",
+    "subfolder": "split_files/diffusion_models",
+    "filename": "qwen_image_fp8_e4m3fn.safetensors",
+    "local_path": "diffusion_models/qwen_image_fp8_e4m3fn.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Comfy-Org/Qwen-Image-Edit_ComfyUI",
+    "subfolder": "split_files/diffusion_models",
+    "filename": "qwen_image_edit_fp8_e4m3fn.safetensors",
+    "local_path": "diffusion_models/qwen_image_edit_fp8_e4m3fn.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Comfy-Org/Qwen-Image-Edit_ComfyUI",
+    "subfolder": "split_files/diffusion_models",
+    "filename": "qwen_image_edit_2509_fp8_e4m3fn.safetensors",
+    "local_path": "diffusion_models/qwen_image_edit_2509_fp8_e4m3fn.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "lightx2v/Qwen-Image-Lightning",
+    "subfolder": "",
+    "filename": "Qwen-Image-Lightning-4steps-V1.0.safetensors",
+    "local_path": "loras/Qwen-Image-Lightning-4steps-V1.0.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Kijai/WanVideo_comfy",
+    "subfolder": "Lightx2v",
+    "filename": "lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors",
+    "local_path": "loras/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Kijai/WanVideo_comfy",
+    "subfolder": "LoRAs/Wan22_relight",
+    "filename": "WanAnimate_relight_lora_fp16.safetensors",
+    "local_path": "loras/WanAnimate_relight_lora_fp16.safetensors",
+    "protected": false
+  },
+  {
+    "repo_id": "Kijai/WanVideo_comfy_fp8_scaled",
+    "subfolder": "Wan22Animate",
+    "filename": "Wan2_2-Animate-14B_fp8_e4m3fn_scaled_KJ.safetensors",
+    "local_path": "diffusion_models/Wan2_2-Animate-14B_fp8_e4m3fn_scaled_KJ.safetensors",
+    "protected": false
+  }
+
+]

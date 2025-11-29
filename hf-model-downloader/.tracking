@@ -1,0 +1,10 @@
+.github/workflows/publish_action.yml
+.gitignore
+README.md
+__init__.py
+js/model_downloader.css
+js/model_downloader.js
+model_config.json
+model_downloader_node.py
+pyproject.toml
+requirements.txt

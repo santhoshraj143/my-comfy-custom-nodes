@@ -1,0 +1,17 @@
+.github/workflows/publish.yml
+.gitignore
+LICENSE
+README.md
+__init__.py
+docs/consistency_vae.png
+docs/glif_variable.png
+docs/load_hf_embedding.png
+docs/load_hf_lora.png
+docs/load_lora_from_url.png
+docs/multiple_of.png
+docs/patch_vae.png
+docs/sdxl_aspect_ratio.png
+nodes.py
+pyproject.toml
+requirements.txt
+tests/test_image_padding_advanced.py
